@@ -1,6 +1,6 @@
-# Vertex AI Conversation
+# Vertex AI Conversation 
 
-## JiraphinyaLnc
+## JiraphinyaLnc สำหรับตัวอย่างหน้าเเชท หากคุณต้องการ ดูรายละเอียดที่ cloud.google.com
 
 ![JiraphinyaLnc](./lnc2.png)
 
