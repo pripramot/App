@@ -2,10 +2,10 @@
 
 ## JiraphinyaLnc สำหรับตัวอย่างหน้าเเชท หากคุณต้องการ ดูรายละเอียดที่ cloud.google.com
 
-![JiraphinyaLnc](./lnc2.png)
 
 
-![JiraphinyaLnc](./console_cloud1.png)
+
+![cloudeditor](./1cloudeditor.png)
 
 
 [Data Store Agent](https://cloud.google.com/generative-ai-app-builder/docs/agent-intro)
@@ -84,3 +84,7 @@ these guides and resources:
 - [Documentation for Dialogflow CX](https://cloud.google.com/dialogflow/cx/docs)
 - [Documentation for Data Store Agents](https://cloud.google.com/dialogflow/cx/docs/concept/data-store-agent)
 - [Generative AI in Google Cloud](https://cloud.google.com/ai/generative-ai)
+
+
+![JiraphinyaLnc](./lnc2.png)
+
