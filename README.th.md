@@ -1,6 +1,6 @@
 
 
-# Vertex AI Conversation ไทย
+# Vertex AI Conversation 
 ## Overview
 
 [Data Store Agent](https://cloud.google.com/generative-ai-app-builder/docs/agent-intro)
@@ -11,17 +11,17 @@ that is built on top of functionality in
 
 [Vertex AI Conversation Demo](static/vertex-ai-conversation.png)
 
-With a Data Store Agent, you can provide a website domain, structured data, or
-unstructured data, then the Data Store Agent parses your content and creates a
-virtual agent that is powered by data stores and large language models. Your
-customers and end users can then have conversations with the agent and ask
-questions about the content. Refer to the
+ด้วย Data Store Agent คุณสามารถระบุโดเมนเว็บไซต์ ข้อมูลที่มีโครงสร้าง หรือ
+ข้อมูลที่ไม่มีโครงสร้าง จากนั้น Data Store Agent จะวิเคราะห์เนื้อหาของคุณและสร้าง
+ตัวแทนเสมือนที่ขับเคลื่อนโดยแหล่งเก็บข้อมูลและโมเดลภาษาขนาดใหญ่ ของคุณ
+ลูกค้าและผู้ใช้ปลายทางสามารถสนทนากับตัวแทนและถามได้
+คำถามเกี่ยวกับเนื้อหา
 [Data Store Agent documentation](https://cloud.google.com/generative-ai-app-builder/docs/agent-usage)
-and codelab to
+และ codelab โปรดดูข้อมูลเพิ่มเติมที่
 [Create a Generative Chat App with Vertex AI Conversation](https://codelabs.developers.google.com/codelabs/vertex-ai-conversation)
-for more information.
 
-## Steps to build the web app
+
+## ขั้นตอนในการสร้างเว็บแอป
 
 1. Install [Node.js](https://nodejs.org/en) using your preferred method or
    package manager
