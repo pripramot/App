@@ -9,7 +9,7 @@ is a feature within
 that is built on top of functionality in
 [Dialogflow CX](https://cloud.google.com/dialogflow).
 
-![Vertex AI Conversation Demo](static/vertex-ai-conversation.png)
+[Vertex AI Conversation Demo](static/vertex-ai-conversation.png)
 
 With a Data Store Agent, you can provide a website domain, structured data, or
 unstructured data, then the Data Store Agent parses your content and creates a
