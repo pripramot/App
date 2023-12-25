@@ -28,7 +28,7 @@ that is built on top of functionality in
 1. From this directory, run `npm install`
 1. Run `npm run build` to generate the static site in the `build` directory
 
-## Steps to deploy the web app to Firebase
+## ขั้นตอนในการปรับใช้เว็บแอปกับ Firebase
 
 1. Navigate to the [Firebase console](https://console.firebase.google.com/)
 1. Provision Firebase on a new or existing GCP project
@@ -71,8 +71,8 @@ Congratulations, you've successfully deployed the Vertex AI Conversation Demo!
 
 ## Additional resources
 
-You can continue learning about conversational AI and generative AI with
-these guides and resources:
+คุณสามารถเรียนรู้เกี่ยวกับ AI เชิงสนทนาและ AI เชิงสร้างสรรค์ต่อไปได้
+คำแนะนำและแหล่งข้อมูลเหล่านี้:
 
 - [Overview of Vertex AI Conversation](https://cloud.google.com/generative-ai-app-builder/docs/agent-intro)
 - [Create and use Data Store Agents](https://cloud.google.com/generative-ai-app-builder/docs/agent-usage)
